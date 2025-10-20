@@ -1,0 +1,32 @@
+trying out git for better or for worse
+
+adding cp boilerplate 
+/*while(alive) {
+  think();
+  create();
+  solve();
+}*/
+
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long int 
+#define loop(i,n) for(int i=0;i<n;i++)
+#define rloop(i,n) for(int i=n-1;i>=0;i--)
+#define endl "\n"
+
+void ans(){
+
+}
+
+int32_t main(){
+ios::sync_with_stdio(0);
+cin.tie(0);
+
+int tc=1;
+cin>>tc; cin.ignore();
+for(int i=0;i<tc;i++){
+ans();
+}
+
+return 0;
+}
